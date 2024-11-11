@@ -1,0 +1,5 @@
+use to convert to byte code 
+javac <filename>.java 
+
+then to run
+java <filename>
